@@ -16,6 +16,7 @@
         <module name="commonkafka" />
         <module name="service-fraud-detector" />
         <module name="service-email" />
+        <module name="service-users" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
